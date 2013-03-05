@@ -1,0 +1,5 @@
+django 
+south
+mysql-python==1.2.3
+redis-server
+redis
